@@ -5,7 +5,7 @@ This is just example of MessageBox using C# forms. Took me 2 hours to make it. T
 - Visual Studio 2019
 
 # Image
-Here is the example image of Dark MessageBox:
+Here is the example image:
 
 <img align="center" src="https://github.com/QMuffinBoy/solid-waffle/blob/58694fe6abe148f3198666dcdab01f847723cf42/Screenshots/CustomMsgBox.png">
 
