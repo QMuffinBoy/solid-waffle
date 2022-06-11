@@ -1,0 +1,15 @@
+D:\VS_Source\Repository\Example Forms\obj\Debug\Example_Forms.MainWindow.resources
+D:\VS_Source\Repository\Example Forms\obj\Debug\Example_Forms.CustomMessageBox.resources
+D:\VS_Source\Repository\Example Forms\obj\Debug\Example Forms.csproj.GenerateResource.cache
+D:\VS_Source\Repository\Example Forms\bin\Debug\Example Forms.exe.config
+D:\VS_Source\Repository\Example Forms\bin\Debug\Example Forms.exe
+D:\VS_Source\Repository\Example Forms\bin\Debug\Example Forms.pdb
+D:\VS_Source\Repository\Example Forms\bin\Debug\DarkUI.dll
+D:\VS_Source\Repository\Example Forms\obj\Debug\Example Forms.csproj.AssemblyReference.cache
+D:\VS_Source\Repository\Example Forms\obj\Debug\Example_Forms.Properties.Resources.resources
+D:\VS_Source\Repository\Example Forms\obj\Debug\Example Forms.csproj.CoreCompileInputs.cache
+D:\VS_Source\Repository\Example Forms\obj\Debug\Example Forms.csproj.CopyComplete
+D:\VS_Source\Repository\Example Forms\obj\Debug\Example Forms.exe
+D:\VS_Source\Repository\Example Forms\obj\Debug\Example Forms.pdb
+D:\VS_Source\Repository\Example Forms\obj\Debug\Example_Forms.CustomMessageBox2.resources
+D:\VS_Source\Repository\Example Forms\obj\Debug\Example_Forms.CustomMessageBox3.resources
