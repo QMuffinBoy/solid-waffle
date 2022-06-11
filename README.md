@@ -1,5 +1,5 @@
 # Dark MessageBox
-This is just example of MessageBox using C# forms. Took me 2 hours to make it. Microsoft seems lazy today.
+This is just example of MessageBox using C# forms. Took me 2 hours to make it. This is just a small projects that I've made. \O-O/
 
 <h3>Requirement</h3>
 - Visual Studio 2019
