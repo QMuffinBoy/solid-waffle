@@ -1,5 +1,5 @@
 # Dark MessageBox
-This is just example of MessageBox using C# forms. Took me 2 hours to make it. This is just a small projects that I've made. \O-O/
+This is just example of MessageBox using C# forms. Took me 2 hours to make it. This is just a small projects that I've made. If you wondered why there is resize, yeah I don't know why. Maybe it was VS bugs... I already set it to **GrowAndShrink**.
 
 <h3>Requirement</h3>
 - Visual Studio 2019
