@@ -21,4 +21,4 @@ Here is the example image:
 <img align="center" src="https://github.com/QMuffinBoy/solid-waffle/blob/58694fe6abe148f3198666dcdab01f847723cf42/Screenshots/CustomMsgBoxError.png">
 
 -----------------
-P.S: Sorry if my English is bad. There's to much mistake.
+<h6>Sorry if my English is bad. There are a few mistakes.</h6>
