@@ -1,11 +1,13 @@
 # Dark MessageBox
+Use this custom MessageBox for your project. Just do whatever you want with it. Please don't sue me.
 
 <h3>Requirements</h3>
-- Visual Studio 2019
+- Visual Studio 2019 or later
 
 # Image
 example image:
 
+- Full:
 <img align="center" src="https://github.com/QMuffinBoy/solid-waffle/blob/58694fe6abe148f3198666dcdab01f847723cf42/Screenshots/CustomMsgBox.png">
 
 ----------------
