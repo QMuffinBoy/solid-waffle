@@ -22,5 +22,5 @@ example image:
 <img align="center" src="https://github.com/QMuffinBoy/solid-waffle/blob/58694fe6abe148f3198666dcdab01f847723cf42/Screenshots/CustomMsgBoxError.png">
 
 -----------------
-<h5>I don't know why there is a resizable. It's already disabled but but it still remains.</h5>
+<h5>I don't know why there is a resizable. It's already disabled but it still remains.</h5>
 <h6>Copyright © QuiteMuffin 2022</h6>
