@@ -1,5 +1,5 @@
 # Dark MessageBox
-Use this custom MessageBox for your project. Just do whatever you want with it. Please don't sue me.
+Use this custom MessageBox for your project. Just do whatever you want with it. Please don't sue me. This project was made in C#.
 
 <h3>Requirements</h3>
 - Visual Studio 2019 or later
